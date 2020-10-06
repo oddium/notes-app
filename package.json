@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "validator": "^13.1.17"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0"
   }
 }
