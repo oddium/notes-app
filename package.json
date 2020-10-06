@@ -2,5 +2,8 @@
   "name": "notes-app",
   "version": "1.0.0",
   "main": "app.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "validator": "^13.1.17"
+  }
 }
